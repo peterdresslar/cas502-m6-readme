@@ -12,9 +12,9 @@ markdownlint: Multiple top-level headings in the same document
 ## this level 2 heading needs different text from its peers
 
 - Markdown is awesome
-- Many tools support markdown text
-- Many online services support markdown text
-- Canvas does not support markdown text?
+- Many tools support markdown
+- Many online services support markdown
+- Canvas does not support markdown?
 - [Or, does it](https://lts-help.its.virginia.edu/m/integrated-tools/l/1653310-how-do-i-format-text-with-markdown-in-the-rich-content-editor)?
 
 ### *Check out this cool grading guide!*
