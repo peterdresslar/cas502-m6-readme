@@ -9,7 +9,7 @@ markdownlint: Multiple top-level headings in the same document
 (MD025/single-title/single-h1) (markdownlint MD025)
 ```
 
-## this also is a level 2 heading
+## this level 2 heading needs different text from its peers
 
 - Markdown is awesome
 - Many tools support markdown text
@@ -25,7 +25,7 @@ markdownlint: Multiple top-level headings in the same document
 | There are two level two headings | true |
 | There is a list | true |
 | There is a link | true |
-| *There is a table* | true |
+| ✨ *There is a table* | true |
 | The file is in proper Markdown. | Impossible ;-) |
 
 ---
